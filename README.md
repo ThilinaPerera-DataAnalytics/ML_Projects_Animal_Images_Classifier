@@ -67,8 +67,7 @@ Project_01_Animal_Image_Classifier_Infotech/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/ThilinaPerera-DataAnalytics/Project_01_Animal_Image_Classifier_Infotech.git
-   cd Project_01_Animal_Image_Classifier_Infotech
+   git clone https://github.com/ThilinaPerera-DataAnalytics/ML_Projects_Animal_Images_Classifier.git
    ```
 
 2. **Install dependencies**
@@ -93,8 +92,10 @@ Project_01_Animal_Image_Classifier_Infotech/
 
 4.  **Run the Jupyter Notebook**
     ```
-    Open the `your_project_notebook.ipynb` (or similar name) located in the `3_notebooks` directory using Jupyter Notebook or JupyterLab and execute the cells sequentially.
+    Open the `project_01_animal_image-classification.ipynb` located in the 3_notebooks/ directory using Jupyter Notebook or JupyterLab and execute the cells sequentially.
     ```
+
+   
 
 <font size='4'>The notebook will</font>
 
@@ -108,13 +109,13 @@ Project_01_Animal_Image_Classifier_Infotech/
 ## 📊 Workflow Overview
 
 1. **Data Transformations** – Normalize and augment datasets for robust training.
-2. **Dataset Loading** – Structured image dataset using `ImageFolder`.
+2. **Dataset Loading** – Structured image dataset using `1_data/` folder.
 3. **Model Architecture** – Pre-trained CNN models fine-tuned for classification.
 4. **Training Loop** – Custom training function with optimizer & learning rate scheduler.
 5. **Evaluation** – Accuracy and loss tracking per epoch.
-6. **Visualization** – Display predictions on validation images.
+6. **Visualization** – Display predictions on validation and test images.
 
-The project evaluates the performance of both the fine-tuned CNN model (`model_ft`) and the transfer learning feature extraction model (`model_conv`) on the validation dataset.
+The project evaluates the performance of both the fine-tuned CNN model (`best_model.pth`) and the transfer learning feature extraction model (`final_model.pth`) on the validation dataset.
 
 The evaluation includes:
 * **Loss and Accuracy per Epoch:** Printed during the training process for both training and validation phases.
@@ -204,7 +205,7 @@ Contributions are welcome! Please fork the repo and submit a pull request with i
 * [Torchvision](https://pytorch.org/vision/stable/index.html) – Image Utilities
 * [Matplotlib](https://matplotlib.org/) – Visualization
 * [Kaggle: Animal Image Classification Dataset](https://www.kaggle.com/datasets/borhanitrash/animal-image-classification-dataset/data) - Dataset Source - Train and test
-* Validation images - Google images
+* Test images - Google images
 ---
 
 ✨ If you like this project, don’t forget to **star ⭐ the repo**!
