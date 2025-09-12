@@ -149,12 +149,12 @@ weighted avg     0.9786    0.9783    0.9783       600
 ```
 **Confusion Matrix**
 
-![alt text](4_results\Fine_tuned_val_confusion_matrix.png) 
+![alt text](4_results/Fine_tuned_val_confusion_matrix.png) 
 
 ---
 
 ### Model validation: Transfer-Learning
-![alt text](5_outputs\Predictions\model_validation_transfer_learning_feature_extraction_predictions.png)
+![alt text](5_outputs/Predictions/model_validation_transfer_learning_feature_extraction_predictions.png)
 
 ```
 Classification Report:
@@ -170,13 +170,13 @@ weighted avg     0.9851    0.9850    0.9850       600
 ```
 **Confusion Matrix**
 
-![alt text](4_results\Transfer_Learning_val_confusion_matrix.png)
+![alt text](4_results/Transfer_Learning_val_confusion_matrix.png)
 
 ### Test Sample: Fine-tuned
-![alt text](5_outputs\Predictions\test_data_fine_tuned_predictions.png)
+![alt text](5_outputs/Predictions/test_data_fine_tuned_predictions.png)
 
 ### Test Sample: Transfer-Learning
-![alt text](5_outputs\Predictions\test_data_transfer_learning_feature_extraction_predictions.png)
+![alt text](5_outputs/Predictions/test_data_transfer_learning_feature_extraction_predictions.png)
 
 ## 📌 Next Steps
 
