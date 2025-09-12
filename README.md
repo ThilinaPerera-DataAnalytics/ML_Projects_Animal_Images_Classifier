@@ -134,7 +134,7 @@ The evaluation includes:
 ![alt text](5_outputs\Data_Load_Validation.png)
 
 ### Model validation: Fine-tuned
-![alt text](5_outputs\Predictions\model_validation_fine_tuned_predictions.png)
+![alt text](5_outputs/Predictions/model_validation_fine_tuned_predictions.png)
 ```
 Classification Report:
                precision    recall  f1-score   support
