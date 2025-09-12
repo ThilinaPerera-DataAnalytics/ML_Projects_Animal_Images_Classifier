@@ -189,15 +189,17 @@ weighted avg     0.9851    0.9850    0.9850       600
 Contributions are welcome! Please fork the repo and submit a pull request with improvements.
 
 
-## 👤 Author
+## 👨‍💻 Author
 
 **Thilina Perera**
+
+    📌 Data Analytics Enthusiast | Machine Learning, Deep Learning, & NLP Explorer
 
 🔗 [LinkedIn](https://www.linkedin.com/in/thilina-perera-148aa934/) | [GitHub](https://github.com/ThilinaPerera-DataAnalytics)
 
 ---
 
-## ⭐ Acknowledgements
+## ⭐ Acknowledgement
 
 * [PyTorch](https://pytorch.org/) – Deep Learning Framework
 * [Torchvision](https://pytorch.org/vision/stable/index.html) – Image Utilities
