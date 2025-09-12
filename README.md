@@ -95,8 +95,6 @@ Project_01_Animal_Image_Classifier_Infotech/
     Open the `project_01_animal_image-classification.ipynb` located in the 3_notebooks/ directory using Jupyter Notebook or JupyterLab and execute the cells sequentially.
     ```
 
-   
-
 <font size='4'>The notebook will</font>
 
     * Load and preprocess images.
@@ -131,7 +129,7 @@ The evaluation includes:
 | 🐍 Snake    | ✅ Snake         |
 
 ### Data Loading validation
-![alt text](5_outputs\Data_Load_Validation.png)
+![alt text](5_outputs/Data_Load_Validation.png)
 
 ### Model validation: Fine-tuned
 ![alt text](5_outputs/Predictions/model_validation_fine_tuned_predictions.png)
