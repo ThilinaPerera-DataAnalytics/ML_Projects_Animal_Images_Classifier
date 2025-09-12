@@ -5,6 +5,7 @@ Individual Project 01
 Machine Learning with Advanced Python
 Infotech College of Business & IT
 ```
+![alt text](Cover_image.png)
 
 An advanced deep learning project that classifies animal images using **Convolutional Neural Networks (CNNs)** and **transfer learning** with PyTorch.
 
@@ -50,7 +51,8 @@ Project_01_Animal_Image_Classifier_Infotech/
 |    └── Data_Load_Validation.png
 |
 |── ReadMe.md                  # Official documentation
-|── .gitignore   
+|── .gitignore
+|── Cover_image.png   
 └── LICENSE.md                 # MIT License
 ```
 
