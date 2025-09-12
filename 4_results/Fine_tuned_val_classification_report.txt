@@ -1,0 +1,10 @@
+Classification Report:
+               precision    recall  f1-score   support
+
+        cats     0.9845    0.9500    0.9669       200
+        dogs     0.9563    0.9850    0.9704       200
+      snakes     0.9950    1.0000    0.9975       200
+
+    accuracy                         0.9783       600
+   macro avg     0.9786    0.9783    0.9783       600
+weighted avg     0.9786    0.9783    0.9783       600
