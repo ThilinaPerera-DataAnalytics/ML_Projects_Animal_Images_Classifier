@@ -187,8 +187,9 @@ weighted avg     0.9851    0.9850    0.9850       600
 
 ---
 
-## ⭐ Acknowledgement
+## 🙏 Acknowledgement
 
+* Lecturer Mr. Akshan Bandara for guidance & Infotech College staff for resources.
 * [PyTorch](https://pytorch.org/) – Deep Learning Framework
 * [Torchvision](https://pytorch.org/vision/stable/index.html) – Image Utilities
 * [Matplotlib](https://matplotlib.org/) – Visualization
