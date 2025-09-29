@@ -185,20 +185,6 @@ weighted avg     0.9851    0.9850    0.9850       600
 * 🔹 Improve performance with **hyperparameter tuning** & **data augmentation**.
 * 🔹 Add **Grad-CAM visualization** for interpretability.
 
-
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repo and submit a pull request with improvements.
-
-
-## 👨‍💻 Author
-
-**Thilina Perera**
-
-    📌 Data Analytics Enthusiast | Machine Learning, Deep Learning, & NLP Explorer
-
-🔗 [LinkedIn](https://www.linkedin.com/in/thilina-perera-148aa934/) | [GitHub](https://github.com/ThilinaPerera-DataAnalytics)
-
 ---
 
 ## ⭐ Acknowledgement
@@ -208,6 +194,23 @@ Contributions are welcome! Please fork the repo and submit a pull request with i
 * [Matplotlib](https://matplotlib.org/) – Visualization
 * [Kaggle: Animal Image Classification Dataset](https://www.kaggle.com/datasets/borhanitrash/animal-image-classification-dataset/data) - Dataset Source - Train and test
 * Test images - Google images
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repo and submit a pull request with improvements.
+
+
+### 👨‍💻 Author
+**Thilina Perera/ Data with TP**
+```
+📌 Data Science/ Data Analytics
+📌 Machine Learning, Deep Learning, LLM/LMM, NLP, and Automated Data Pipelines Explorer
+``` 
+🔍 [LinkedIn](https://www.linkedin.com/in/thilina-perera-148aa934/) | 🔍 [GitHub](https://github.com/ThilinaPerera-DataAnalytics) | 🔍 [YouTube](https://www.youtube.com/@Data_with_TP)
+
+### 🏆 License
+    This project is licensed under the MIT License – free to use and extend.
 ---
 
 ✨ If you like this project, don’t forget to **star ⭐ the repo**!
